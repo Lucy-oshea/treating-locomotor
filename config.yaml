@@ -11,13 +11,13 @@
 carpentry: 'incubator'
 
 # Overall title for pages.
-title: 'Lesson Title' # FIXME
+title: 'Treating Locomotor Disease' # FIXME
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: ~ # FIXME
+created: 2024-06-21 # FIXME
 
 # Comma-separated list of keywords for the lesson
-keywords: 'software, data, lesson, The Carpentries' # FIXME
+keywords: 'research data management, privacy, GDPR, ' # FIXME
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
@@ -33,7 +33,7 @@ source: 'https://github.com/carpentries/workbench-template-md' # FIXME
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'team@carpentries.org' # FIXME
+contact: 'research.data.fgb@vu.nl' # FIXME
 
 # Navigation ------------------------------------------------
 #
