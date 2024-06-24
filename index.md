@@ -2,7 +2,7 @@
 site: sandpaper::sandpaper_site
 ---
 
-##Introduction
+##Introduction##
 
 Welcome, 
 Thank you for joining this course on Research Data Management (RDM). 
