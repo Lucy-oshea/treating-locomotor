@@ -4,7 +4,7 @@ title: "Licenses"
 
 ## Instructional Material
 
-All Carpentries (Software Carpentry, Data Carpentry, and Library Carpentry)
+All FGB e-learning tools are available to access and reuse
 instructional material is made available under the [Creative Commons
 Attribution license][cc-by-human]. The following is a human-readable summary of
 (and not a substitute for) the [full legal text of the CC BY 4.0
@@ -65,12 +65,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-## Trademark
-
-"The Carpentries", "Software Carpentry", "Data Carpentry", and "Library
-Carpentry" and their respective logos are registered trademarks of [Community
-Initiatives][ci].
 
 [cc-by-human]: https://creativecommons.org/licenses/by/4.0/
 [cc-by-legal]: https://creativecommons.org/licenses/by/4.0/legalcode
