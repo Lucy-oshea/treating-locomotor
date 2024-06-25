@@ -2,10 +2,9 @@
 title: Setup
 ---
 
-FIXME: Setup instructions live in this document. Please specify the tools and
-the data sets the Learner needs to have installed.
+No specific software is required for this course. 
 
-## Data Sets
+## 
 
 <!--
 FIXME: place any data you want learners to use in `episodes/data` and then use
@@ -14,41 +13,51 @@ FIXME: place any data you want learners to use in `episodes/data` and then use
 -->
 Download the [data zip file](https://example.com/FIXME) and unzip it to your Desktop
 
-## Software Setup
+## Resources
 
 ::::::::::::::::::::::::::::::::::::::: discussion
 
 ### Details
 
-Setup for different systems can be presented in dropdown menus via a `spoiler`
-tag. They will join to this discussion block, so you can give a general overview
-of the software used in this lesson here and fill out the individual operating
-systems (and potentially add more, e.g. online setup) in the solutions blocks.
+The aim of this course is to familiarise you with the concept of Research Data Management and help you consider what
+actions should be taken to ensure transparency, integrity and accountability in research. 
+The information provided in this course is 'not' exhaustive, therefore some useful resources have been linked below. 
+Research does not have a one size fits all approach, either does data management. It is best to check the resources which
+reflect your faculty/ departments as internal Research Data Management policies may differ. 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::: spoiler
 
-### Windows
+### VU wide
 
-Use PuTTY
+- LIBGuide
+- RDM handbook
+- etc
 
 ::::::::::::::::::::::::
 
 :::::::::::::::: spoiler
 
-### MacOS
+### Faculty specific 
 
-Use Terminal.app
+-BETA
+-FGB
+-SBE
+-FMS
+-FRT
+-ETC
 
 ::::::::::::::::::::::::
 
 
 :::::::::::::::: spoiler
 
-### Linux
+### External resources 
 
-Use Terminal
+-LCRDM
+-Essential for data stewards
+-etc
 
 ::::::::::::::::::::::::
 
