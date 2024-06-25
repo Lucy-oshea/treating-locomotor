@@ -60,6 +60,12 @@ contact: 'research.data.fgb@vu.nl' # FIXME
 # Order of episodes in your lesson
 episodes: 
 - introduction.md
+- rdm_basics.md
+- dataassets.md
+- personal_data.md
+- work_personal.md
+- data_storage.md
+- metadata_docu.md
 
 # Information for Learners
 learners: 
