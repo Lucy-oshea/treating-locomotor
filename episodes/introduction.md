@@ -25,15 +25,10 @@ Welcome to "RDM basics"! This course is designed to provide you with a comprehen
 Throughout this course, we will explore the different stages of the research lifecycle, from the initial planning and proposal phase to the final stages of data preservation and reuse. By the end of the course, you will have a clear understanding of each stage and the key activities involved.
 
  <!-- finished until here -->
-What you need to know is that there are three sections required for a valid
-Carpentries lesson:
 
- 1. `questions` are displayed at the beginning of the episode to prime the
-    learner for the content.
- 2. `objectives` are the learning objectives for an episode displayed with
-    the questions.
- 3. `keypoints` are displayed at the end of the episode to reinforce the
-    objectives.
+### For your information
+
+If you have any feedback or questions regarding this course, please reach out to [research.data.fgb@vu.nl](mailto:research.data.fgb@vu.nl)
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
