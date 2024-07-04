@@ -1,5 +1,7 @@
 ---
-title: FIXME
+Overview of profiles 
 ---
 
-This is a placeholder file. Please add content here. 
+# Intended Audience 
+
+This course is an introduction to research data management. 
